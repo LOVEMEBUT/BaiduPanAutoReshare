@@ -9,7 +9,7 @@ $db='budang';
 $ua='netdisk;4.6.1.0;PC;PC-Windows;6.2.9200;WindowsBaiduYunGuanJia';
 
 //后台显示的跳转地址
-$jumper = 'http://localhost/jump.php?';
+$jumper = 'http://acgfx.tk/wp-admin/index.php';
 
 //高速下载链接的开关，这些链接只能供（和服务器IP是）同一个国家的IP使用
 $enable_high_speed_link = true;
